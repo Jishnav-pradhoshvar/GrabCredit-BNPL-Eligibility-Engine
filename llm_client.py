@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "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"
+API_KEY = "YOUR_KEY"
 
 def generate_text(prompt):
     try:
