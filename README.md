@@ -10,9 +10,6 @@
   <strong>A production-grade Buy Now Pay Later checkout system with transparent, data-driven credit decisioning.</strong>
 </p>
 
-<p align="center">
-  <em>Built for the GrabOn Vibe Coder Challenge — from zero to live product in one sprint.</em>
-</p>
 
 <br/>
 
