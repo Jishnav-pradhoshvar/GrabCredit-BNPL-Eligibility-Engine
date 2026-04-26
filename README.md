@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  🏦 GrabCredit — Explainable BNPL Engine
+  🏦 GrabCredit BNPL Eligibility Engine
 </h1>
 
 <p align="center">
