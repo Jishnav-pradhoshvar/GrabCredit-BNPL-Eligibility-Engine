@@ -1,0 +1,1872 @@
+[
+  {
+    "user_id": "U001",
+    "merchant": "Amazon",
+    "category": "Travel",
+    "gmv": 235,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-12-11"
+  },
+  {
+    "user_id": "U001",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 442,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-05-14"
+  },
+  {
+    "user_id": "U002",
+    "merchant": "Swiggy",
+    "category": "Travel",
+    "gmv": 1212,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-03-12"
+  },
+  {
+    "user_id": "U002",
+    "merchant": "Amazon",
+    "category": "Grocery",
+    "gmv": 939,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-08-15"
+  },
+  {
+    "user_id": "U002",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 663,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-06-19"
+  },
+  {
+    "user_id": "U002",
+    "merchant": "Myntra",
+    "category": "Travel",
+    "gmv": 117,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-11-28"
+  },
+  {
+    "user_id": "U002",
+    "merchant": "Amazon",
+    "category": "Electronics",
+    "gmv": 480,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-02-18"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 1537,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-10"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Amazon",
+    "category": "Fashion",
+    "gmv": 2364,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-29"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Swiggy",
+    "category": "Fashion",
+    "gmv": 1394,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-07-20"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Swiggy",
+    "category": "Electronics",
+    "gmv": 1468,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-10"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 1628,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-19"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Swiggy",
+    "category": "Travel",
+    "gmv": 2007,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-01-27"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Myntra",
+    "category": "Travel",
+    "gmv": 834,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-16"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Swiggy",
+    "category": "Electronics",
+    "gmv": 1925,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-08-23"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Amazon",
+    "category": "Travel",
+    "gmv": 548,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-08"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 2688,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-07-10"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Amazon",
+    "category": "Fashion",
+    "gmv": 2091,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-30"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 916,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-12-09"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Swiggy",
+    "category": "Fashion",
+    "gmv": 2429,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-04"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Swiggy",
+    "category": "Electronics",
+    "gmv": 2977,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-04-15"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Flipkart",
+    "category": "Travel",
+    "gmv": 2858,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-01-24"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Amazon",
+    "category": "Grocery",
+    "gmv": 1040,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-08-05"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Myntra",
+    "category": "Electronics",
+    "gmv": 1033,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-28"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Myntra",
+    "category": "Travel",
+    "gmv": 1877,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-04"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Swiggy",
+    "category": "Fashion",
+    "gmv": 1592,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-06-29"
+  },
+  {
+    "user_id": "U003",
+    "merchant": "Flipkart",
+    "category": "Fashion",
+    "gmv": 1232,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-07-01"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Fashion",
+    "gmv": 4519,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-02"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Travel",
+    "gmv": 2043,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-01"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Electronics",
+    "gmv": 3380,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-05-03"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 3409,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-10"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 4350,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-08-06"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 2669,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-24"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Electronics",
+    "gmv": 4407,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-01-13"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 2859,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-01-06"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Electronics",
+    "gmv": 2625,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-12-18"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Travel",
+    "gmv": 3254,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-06-06"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Grocery",
+    "gmv": 5838,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-05"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Travel",
+    "gmv": 4272,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-05"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 6440,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-01-31"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Travel",
+    "gmv": 7022,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-14"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 6404,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-09"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 7680,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-22"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Grocery",
+    "gmv": 3596,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-11-27"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Grocery",
+    "gmv": 7884,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-06-12"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Fashion",
+    "gmv": 3400,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-17"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Electronics",
+    "gmv": 2756,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-08-04"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Grocery",
+    "gmv": 6833,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-12-16"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 3790,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-07-26"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Grocery",
+    "gmv": 4458,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-24"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Electronics",
+    "gmv": 5435,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-02-10"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Fashion",
+    "gmv": 3655,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-06-08"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Fashion",
+    "gmv": 4649,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-12-30"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 2021,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-07-28"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Travel",
+    "gmv": 1777,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-02-03"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 6562,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-01-11"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Electronics",
+    "gmv": 6428,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-06-12"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 1895,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-02-03"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Electronics",
+    "gmv": 7765,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-02-26"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Travel",
+    "gmv": 6215,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-13"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Travel",
+    "gmv": 2723,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-11-16"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Travel",
+    "gmv": 5391,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-08-06"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Grocery",
+    "gmv": 2767,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-23"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 3525,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-02-29"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 3083,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-29"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Electronics",
+    "gmv": 6232,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-17"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Travel",
+    "gmv": 2724,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-11-10"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Grocery",
+    "gmv": 2937,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-07-30"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Electronics",
+    "gmv": 5277,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-28"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 7328,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-05-24"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Travel",
+    "gmv": 1102,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-30"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Fashion",
+    "gmv": 4545,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-08"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Electronics",
+    "gmv": 6212,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-11-26"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Electronics",
+    "gmv": 3799,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-07-22"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Electronics",
+    "gmv": 4084,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-08-09"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Travel",
+    "gmv": 6438,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-06-06"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Travel",
+    "gmv": 4558,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-08-27"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Electronics",
+    "gmv": 5891,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-08-23"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 4603,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-25"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 2717,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-08"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 3176,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-08-22"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Travel",
+    "gmv": 2357,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-11"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Fashion",
+    "gmv": 1727,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-05-06"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Electronics",
+    "gmv": 1895,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-08-22"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Grocery",
+    "gmv": 1452,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-08-03"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Electronics",
+    "gmv": 7720,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-20"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 2465,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-01-10"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Travel",
+    "gmv": 7924,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-01"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Grocery",
+    "gmv": 6588,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-11-16"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Fashion",
+    "gmv": 6850,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-01-10"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 1009,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-06-29"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 4876,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-07-06"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Electronics",
+    "gmv": 1940,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-07-01"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 7550,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-06-13"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Travel",
+    "gmv": 7858,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-06-21"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Grocery",
+    "gmv": 5682,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-17"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 3727,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-07"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Fashion",
+    "gmv": 7361,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-15"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Grocery",
+    "gmv": 6993,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-01-14"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Electronics",
+    "gmv": 7673,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-01-26"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Fashion",
+    "gmv": 3968,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-05"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 4747,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-30"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 6025,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-07-01"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Travel",
+    "gmv": 1134,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-11-26"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Electronics",
+    "gmv": 5484,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-16"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 5188,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-18"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Electronics",
+    "gmv": 6066,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-09-15"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Travel",
+    "gmv": 2617,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-20"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Grocery",
+    "gmv": 6213,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-04-19"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 5730,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-06-23"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 5226,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-12-24"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Fashion",
+    "gmv": 1432,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-11-29"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 5346,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-01-07"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 1129,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-08"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Electronics",
+    "gmv": 2232,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-12-28"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 6122,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-12-01"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Grocery",
+    "gmv": 6144,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-12-08"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 1349,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-12-09"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Electronics",
+    "gmv": 1933,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-16"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Grocery",
+    "gmv": 7253,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-06"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Fashion",
+    "gmv": 2474,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-05-02"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Fashion",
+    "gmv": 6706,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-12-14"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 5730,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-11-21"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 1710,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-12"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Electronics",
+    "gmv": 7098,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-04-27"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 5594,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-02-15"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Electronics",
+    "gmv": 4199,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-05-20"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Travel",
+    "gmv": 3028,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-30"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 7878,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-11-14"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Grocery",
+    "gmv": 7180,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-07-27"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 5296,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-12"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Fashion",
+    "gmv": 1934,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-16"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Fashion",
+    "gmv": 6734,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-10-17"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Swiggy",
+    "category": "Travel",
+    "gmv": 4307,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-05-23"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Fashion",
+    "gmv": 7371,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-25"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Travel",
+    "gmv": 5456,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-02-04"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Travel",
+    "gmv": 5131,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-06-24"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Electronics",
+    "gmv": 4862,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-11-10"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Travel",
+    "gmv": 4583,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-06-27"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Electronics",
+    "gmv": 3193,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-06-23"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Travel",
+    "gmv": 3243,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-12-20"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 4328,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-05-25"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Fashion",
+    "gmv": 2865,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-05-02"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Amazon",
+    "category": "Travel",
+    "gmv": 6280,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-02-18"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Fashion",
+    "gmv": 1541,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-01-03"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 6416,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-03-16"
+  },
+  {
+    "user_id": "U004",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 5774,
+    "coupon_used": true,
+    "payment_mode": "Card",
+    "return_flag": false,
+    "timestamp": "2024-11-01"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 897,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-01-15"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Myntra",
+    "category": "Travel",
+    "gmv": 1097,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-10-04"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 3370,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-11-15"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 1047,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-01-27"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 3831,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-12-25"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Amazon",
+    "category": "Electronics",
+    "gmv": 2097,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-01-09"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Myntra",
+    "category": "Fashion",
+    "gmv": 1550,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-03-21"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Amazon",
+    "category": "Grocery",
+    "gmv": 1413,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-08-09"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 3355,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-05-20"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Swiggy",
+    "category": "Fashion",
+    "gmv": 2754,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-06-24"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Amazon",
+    "category": "Grocery",
+    "gmv": 3883,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-10-21"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 3241,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-08-26"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Flipkart",
+    "category": "Travel",
+    "gmv": 1050,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-07-12"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Amazon",
+    "category": "Electronics",
+    "gmv": 822,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-04-05"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Swiggy",
+    "category": "Fashion",
+    "gmv": 1574,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-09-09"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Amazon",
+    "category": "Travel",
+    "gmv": 1189,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-11-05"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Flipkart",
+    "category": "Fashion",
+    "gmv": 1956,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-10-25"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Amazon",
+    "category": "Grocery",
+    "gmv": 738,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-09-13"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Flipkart",
+    "category": "Electronics",
+    "gmv": 588,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-09-18"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Swiggy",
+    "category": "Electronics",
+    "gmv": 4598,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-06-22"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 4423,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-02-27"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 4373,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-02-25"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Myntra",
+    "category": "Travel",
+    "gmv": 2414,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-08-13"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Swiggy",
+    "category": "Fashion",
+    "gmv": 4138,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-02-14"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Amazon",
+    "category": "Fashion",
+    "gmv": 4860,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-11-11"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Flipkart",
+    "category": "Grocery",
+    "gmv": 2876,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-02-01"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Amazon",
+    "category": "Fashion",
+    "gmv": 1283,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-03-16"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Amazon",
+    "category": "Electronics",
+    "gmv": 3641,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-04-21"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Amazon",
+    "category": "Travel",
+    "gmv": 1170,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-03-21"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Swiggy",
+    "category": "Electronics",
+    "gmv": 3235,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-12-25"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Swiggy",
+    "category": "Fashion",
+    "gmv": 2384,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-07-07"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Swiggy",
+    "category": "Travel",
+    "gmv": 3280,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-06-07"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Flipkart",
+    "category": "Travel",
+    "gmv": 1170,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-08-02"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Myntra",
+    "category": "Electronics",
+    "gmv": 2229,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-02-12"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Flipkart",
+    "category": "Fashion",
+    "gmv": 1332,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-06-24"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Myntra",
+    "category": "Grocery",
+    "gmv": 4984,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-10-05"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Amazon",
+    "category": "Travel",
+    "gmv": 2046,
+    "coupon_used": true,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-06-22"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Swiggy",
+    "category": "Grocery",
+    "gmv": 2433,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-12-19"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Swiggy",
+    "category": "Grocery",
+    "gmv": 2233,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": true,
+    "timestamp": "2024-03-25"
+  },
+  {
+    "user_id": "U005",
+    "merchant": "Amazon",
+    "category": "Electronics",
+    "gmv": 1359,
+    "coupon_used": false,
+    "payment_mode": "UPI",
+    "return_flag": false,
+    "timestamp": "2024-10-31"
+  }
+]
